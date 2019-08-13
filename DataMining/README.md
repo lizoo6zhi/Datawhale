@@ -38,3 +38,7 @@
 # Task3：跑模型（2天）
 <b>具体任务：</b>
 - 用逻辑回归、svm和决策树；随机森林和XGBoost进行模型构建，评分方式任意，如准确率等。（不需要考虑模型调参）
+
+# # Task4：模型评估（2天）
+<b>具体任务：</b>
+- 记录5个模型（逻辑回归、SVM、决策树、随机森林、XGBoost）关于accuracy、precision，recall和F1-score、auc值的评分表格，并画出ROC曲线
